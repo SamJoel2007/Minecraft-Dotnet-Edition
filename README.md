@@ -20,7 +20,7 @@
 
 &#x20; <b>A Minecraft-inspired desktop launcher built with C# WinForms and .NET</b><br/>
 
-&#x20; <i>by Joker</i>
+&#x20; <i>by Sam</i>
 
 </p>
 
@@ -330,7 +330,7 @@ Minecraft is a trademark of \*\*Mojang/Microsoft\*\*. This project is not affili
 
 
 
-\*\*Joker\*\*
+\*\*Sam\*\*
 
 \- Built with ❤️ using C# and .NET
 
